@@ -15,7 +15,7 @@ The Hospital Management System can be entered using a username and password. It 
 - SERVER-SIDE SCRIPT: Python
 - DATABASE: Sqlite (DBrowser)
 
-## Output
+## Output:
 ![image](https://user-images.githubusercontent.com/99204211/183290464-32cad593-7443-49aa-aa36-d7b89b5860bb.png)
 ![image](https://user-images.githubusercontent.com/99204211/183290471-d278491f-f9e0-4299-a38e-c59fccf311ed.png)
 ![image](https://user-images.githubusercontent.com/99204211/183290442-68015e5f-7e1b-45e6-a436-bede43cdfa77.png)
