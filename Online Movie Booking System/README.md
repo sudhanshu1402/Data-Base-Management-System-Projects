@@ -10,5 +10,5 @@ The website provides complete information regarding currently running movies on 
 ## Schema Diagram
 ![image](https://user-images.githubusercontent.com/99204211/183666744-006318ca-7802-4f5b-b83c-bb0415f36b62.png)
 
-## Output
+## Output:
 ![image](https://user-images.githubusercontent.com/99204211/183666836-c2d6cf10-85ed-4cd2-a29d-255364045e70.png)
